@@ -1,0 +1,2 @@
+[console_scripts]
+google-workspace-worker = google_workspace_mcp.__main__:main
